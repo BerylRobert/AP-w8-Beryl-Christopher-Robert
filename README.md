@@ -1,0 +1,1 @@
+Disini Payable menggunakan interface bukan abstract karena abstract digunakan untuk class yang saling berhubungan, sedangkan di kasus ini Employee dan Invoice tidak saling berhubungan jadi menggunakan interface bukan abstract. Employee dan Invoice tidak saling berhubungan tapi punya method atau kemampuan yang sama.
